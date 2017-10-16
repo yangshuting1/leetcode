@@ -1,10 +1,12 @@
+package Simple;
+
 import java.util.HashMap;
 import java.util.Map;
 
 /**
  * Created by sugaryang on 2017/10/16.
  */
-public class Test1 {
+public class TwoSum {
 
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();
