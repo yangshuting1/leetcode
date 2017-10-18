@@ -6,6 +6,7 @@ import java.util.Map;
 /**
  * Created by sugaryang on 2017/10/16.
  */
+//数组中有两个数的和等于指定的数，把那两个数找出来
 public class TwoSum {
 
     public int[] twoSum(int[] nums, int target) {

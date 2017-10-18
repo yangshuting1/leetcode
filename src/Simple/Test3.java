@@ -3,6 +3,7 @@ package Simple;
 /**
  * Created by sugaryang on 2017/10/16.
  */
+//矩阵排布，判断是否有这样的一个数
 public class Test3 {
     public boolean Find(int target, int [][] array) {
 
