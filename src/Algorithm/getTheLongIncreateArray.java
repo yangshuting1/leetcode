@@ -17,13 +17,10 @@ public class getTheLongIncreateArray {
                  }
              }
          }
-        return lens[lens.length-1];
-
-
+        return lens[lens.length-1]；
     }
 
 
     public static void main(String[] args) {
-
     }
 }
